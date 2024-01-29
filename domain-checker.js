@@ -4,7 +4,7 @@ const readline = require('readline');
 const e = require("express");
 
 
-const INPUT_FILE  = 'example-words2.txt';
+const INPUT_FILE  = 'example-words.txt';
 const OUTPUT_FILE = 'available-domains-all.txt';
 const WORKER_FILE = './worker.js';
 
